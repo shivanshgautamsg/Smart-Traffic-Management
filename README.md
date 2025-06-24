@@ -4,7 +4,7 @@ A machine learning-powered solution for analyzing traffic volume trends and opti
 
 📄 Based on the research paper:  
 **"Traffic Volume Analysis and Reduction Strategies in Urban Environments"**  
-Authored by: Nihitha R Haresamudram, Sashi Pritam M Anand, Priyam Badyal, Ignisha Rajathi G, Shivansh Gautam, and Sapna R.
+Authored by: Nihitha R Haresamudram, Priyam Badyal, Shivansh Gautam, Sashi Pritam M Anand, Ignisha Rajathi G, and Sapna R.
 
 ---
 
